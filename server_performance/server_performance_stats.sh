@@ -23,5 +23,5 @@ ps -eF --sort=-rss |awk '{print $2,$11}'| head -n 6 | column -t
 echo
 
 grep -E '^NAME=|^VERSION=' /etc/os-release
-echo "Uptime: $(uptime)"
+echo "Uptime: $(uptime -p)"
 
