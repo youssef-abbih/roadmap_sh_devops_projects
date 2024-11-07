@@ -10,7 +10,7 @@ This script, `server_performance_stats.sh`, provides an analysis of basic server
 
 1. **Clone the repository** (if you haven’t already):
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/youssef-abbih/roadmap_sh_devops_projects.git
     ```
 
 2. **Navigate to the project directory**:
