@@ -1,4 +1,4 @@
-# Server Performance Monitoring Projects
+# DevOps Projects
 
 This repository contains various projects for monitoring and analyzing server performance. Below is a list of available projects.
 
